@@ -2,6 +2,7 @@
 
 ## Multi-Vendor E-Commerce Platform {Plan}
 - https://mm.tt/map/3968992033?t=IfhXy6qjAJ
+- ![My Picture]([https://github.com/username/repo-name/blob/main/image.png?raw=true](https://mm.tt/map/3968992033?t=IfhXy6qjAJ))
 ## Project Overview
 A web-based platform that allows multiple sellers to manage products while customers can browse, purchase, and leave reviews. Admin manages users and monitors the system.
 
