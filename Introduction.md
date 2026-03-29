@@ -20,6 +20,23 @@ This project demonstrates the practical implementation of software engineering p
 | **Issues Identified**   | • Difficulty in finding suitable furniture due to poor search and filtering options.<br>• Lack of detailed product visualization and information.<br>• Sellers have limited tools to manage inventory and showcase products.<br>• No centralized system for tracking orders and sales performance.<br>• Weak user experience in traditional furniture websites.                                      |
 | **Impact**              | • Customers may leave without making a purchase due to confusion or lack of clarity.<br>• Sellers lose potential sales Due to the poor product supply..<br>• اA management that cannot make decisions based on clear data.<br>• The overall user experience is poor and uncomfortable..                                                                                                                                        |
 | **Need for a Solution** | There is a need for a smart, centralized platform that allows customers to It makes browsing and selecting the right furniture easy, provides sellers with tools to manage their products, and gives management an integrated monitoring and reporting system, while improving the user experience through smart features such as advanced search and clear categorization..                                                                                                                     |
+## Functional Requirements
+- User registration and login
+- Product management (Add / Edit / Delete)
+- Search and filter products
+- Shopping cart system
+- Order placement and tracking
+- Review and rating system
+- Admin dashboard
+
+## Non-Functional Requirements
+- Security (protect user data)
+- Performance (fast response time)
+- Usability (easy to use interface)
+- Scalability (support many users)
+- Reliability (system stability)
+
+
 
 
 ## 1.3 Project Scope
