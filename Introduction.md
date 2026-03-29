@@ -52,14 +52,14 @@ The following features are not included in this project:
 
 | **Objective**                                               | **Success Metric**                                            |
 | ----------------------------------------------------------- | ------------------------------------------------------------- |
-| Develop a user-friendly Smart Furniture Store platform      | Users can بسهولة تصفح المنتجات وإتمام عملية الشراء بدون تعقيد |
-| Enable customers to search and filter furniture efficiently | تقليل وقت البحث وزيادة سرعة الوصول للمنتج المطلوب             |
-| Provide sellers with tools to manage products and inventory | قدرة البائع على إضافة وتعديل المنتجات بسهولة وبدون أخطاء      |
-| Implement a complete shopping cart and checkout system      | إتمام عمليات شراء ناجحة بدون مشاكل في النظام                  |
-| Build an admin dashboard for system monitoring              | قدرة الإدارة على التحكم بالمستخدمين والطلبات وعرض التقارير    |
-| Ensure system performance and usability                     | النظام يعمل بسرعة واستقرار بدون أخطاء واضحة أثناء الاستخدام   |
-| Apply software engineering best practices                   | وجود توثيق كامل + تصميم منظم + كود واضح                       |
-| Deliver a complete and functional graduation project        | مشروع متكامل وجاهز للعرض ويحقق متطلبات المادة                 |
+| Develop a user-friendly Smart Furniture Store platform      | Users can easily browse products and complete the purchase process without complications. |
+| Enable customers to search and filter furniture efficiently |Reduce search time and increase speed in accessing the desired product.            |
+| Provide sellers with tools to manage products and inventory |The seller's ability to add and modify products easily and without errors     |
+| Implement a complete shopping cart and checkout system      |Successful purchase transactions completed without system issues                 |
+| Build an admin dashboard for system monitoring              |The administration's ability to control users, requests, and display reports   |
+| Ensure system performance and usability                     |The system operates quickly and stably without any apparent errors during use.   |
+| Apply software engineering best practices                   | Full documentation + organized design + clear code                    |
+| Deliver a complete and functional graduation project        |A complete and ready-to-present project that meets the requirements of the material.                |
 
 
 ## 1.5 Methodology
