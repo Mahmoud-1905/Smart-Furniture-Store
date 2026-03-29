@@ -94,4 +94,4 @@ Each team member works on their assigned tasks, and the system is built step by 
 
 ---
 
-[← Back to README](README.md) | [Next: Stakeholders Analysis →]([./02-stakeholders-analysis.md](https://github.com/Mahmoud-1905/Smart-Furniture-Store/blob/54d63ca001a825bbbe4c0915759da6fef409787f/Stakeholders%20Analysis.md))
+[← Back to README](README.md) | [Next: Stakeholders Analysis →](./Stakeholder Analysis.md)
