@@ -1,6 +1,6 @@
-# Multi-Vendor E-Commerce System
+# Smart Furniture Store
 
-## Multi-Vendor E-Commerce Platform {Plan}
+## Smart Furniture Store{Plan}
 - https://mm.tt/map/3968992033?t=IfhXy6qjAJ
   this like have Functional/NonFunctional Requirements, Use Case Scenarios,....
 ## Project Overview
