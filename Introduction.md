@@ -94,4 +94,4 @@ Each team member works on their assigned tasks, and the system is built step by 
 
 ---
 
-[← Back to README](README.md) | [Next: Stakeholders Analysis →](./Stakeholder Analysis.md)
+[← Back to README](README.md) | [Next: Stakeholders Analysis →](./Stakeholders Analysis.md)
