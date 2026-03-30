@@ -1,14 +1,15 @@
 # User Stories & Backlog
 
 ## Epic Overview
-| Epic                  | Description                                                        | Story Count |
-| --------------------- | ------------------------------------------------------------------ | ----------- |
-| User Management       | إدارة المستخدمين بما في ذلك التسجيل، تسجيل الدخول، وتعديل الحسابات | 4           |
-| Product Management    | إدارة المنتجات: إضافة، تعديل، حذف، وعرض التفاصيل                   | 5           |
-| Shopping & Checkout   | تجربة التسوق: تصفح المنتجات، إضافة للسلة، الدفع، وعملية Checkout   | 6           |
-| Order Management      | إدارة الطلبات: متابعة الطلبات، حالة الشحن، وإشعارات العملاء        | 4           |
-| Reporting & Analytics | توليد تقارير وتحليلات للمبيعات والمخزون للمسؤولين                  | 3           |
-| Notifications         | إرسال إشعارات عبر البريد الإلكتروني أو النظام للعملاء والبائعين    | 2           |
+| Epic                  | Description                                                                                     | Story Count |
+| --------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
+| User Management       | Manage users including registration, login, profile updates, and password reset                 | 4           |
+| Product Management    | Manage products: adding, updating, browsing, searching, and filtering                           | 5           |
+| Shopping & Checkout   | Customer shopping experience: adding items to cart, applying discounts, and completing checkout | 4           |
+| Order Management      | Manage orders: tracking, updating status, and handling cancellations                            | 4           |
+| Reporting & Analytics | Generate sales and inventory reports for administrators                                         | 3           |
+| Notifications         | Send notifications via email, SMS, or push for customers and sellers                            | 3           |
+
 
 ## 5.2 User Stories with Acceptance Criteria
 
@@ -41,4 +42,22 @@
 | US12 | Apply Discount     | As a Customer, I want to apply discount codes, so that I can reduce the total price.          | **Given** a customer at checkout, **When** they enter a valid discount code, **Then** the system applies the discount to the order total.                              |
 | US13 | Payment Processing | As a Customer, I want the system to process payments, so that my order is completed securely. | **Given** a customer checking out, **When** they enter valid payment details, **Then** payment is processed and confirmation sent.                                     |
 
+##  Story Map Summary
 
+block-beta
+    columns 5
+    block:header:5
+        A["User Activities"]
+    end
+    B1["Account Management"] B2["Product Management"] B3["Shopping & Checkout"] B4["Order Management"] B5["Notifications"]
+    
+    C1["US-001 Customer Registration"] C2["US-005 Add Product"] C3["US-010 Add to Cart"] C4["US-007 Track Orders"] C5["US-014 Email Notification"]
+    D1["US-002 Customer Login"] D2["US-006 Update Product"] D3["US-011 Checkout Order"] D4["US-008 Update Order Status"] D5["US-015 SMS Notification"]
+    E1["US-003 Update Profile"] E2["US-007 Browse Products"] E3["US-012 Apply Discount"] E4["US-009 Cancel Order"] E5["US-016 Push Notification"]
+    F1["US-004 Password Reset"] E2["US-008 Search Products"] space E4["US-013 Payment Failed Handling"] space
+
+    style B1 fill:#4caf50,color:#fff
+    style B2 fill:#2196f3,color:#fff
+    style B3 fill:#ff9800,color:#fff
+    style B4 fill:#9c27b0,color:#fff
+    style B5 fill:#f44336,color:#fff
