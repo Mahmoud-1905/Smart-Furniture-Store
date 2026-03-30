@@ -11,9 +11,9 @@ It allows customers to browse, search, and purchase furniture easily, while enab
 Administrators can monitor sales, users, and overall system performance through a centralized dashboard.
 
 ## Team Members & Roles
-- Hala Nabhan: Front
-- Hana Lw Ly:  Documentation
-- Ru'a Al-Jamal: testing
+- Hala Nabhan: Frontend
+- Hanan Abu Luly:  Documentation
+- Roaa Al-Jamal: testing
 - Ragahad Akeela: Database & Backend Support
 - Mahmoud Alhindi: Team Leader, Backend\frontend Developer
 
