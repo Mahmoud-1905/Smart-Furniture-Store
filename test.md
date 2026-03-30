@@ -206,4 +206,3 @@ graph TB
 | **Postconditions** | User finds desired products to view details or add to cart. |
 
 ---
-
