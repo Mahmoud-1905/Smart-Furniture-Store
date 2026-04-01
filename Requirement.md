@@ -7,7 +7,7 @@
 - The system shall allow users to log in and log out securely.
 - The system shall support different roles (Customer, Seller, Admin).
 - The system shall allow users to update their profile information.
-- 
+  
 **Product Management**
 - Sellers shall be able to add new furniture products.
 - Sellers shall be able to edit product details.
