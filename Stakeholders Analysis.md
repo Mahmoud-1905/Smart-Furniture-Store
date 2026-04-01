@@ -47,4 +47,4 @@ quadrantChart
 **Development Team** — Need to understand the project scope and system design to serve as a reference for programming and testing.
 
 ---
-[← Back to Introduction](Introduction.md) | [Next: Requirements Analysis →](./03-Requirements-analysis.md)
+[← Back to Introduction](Introduction.md) | [Next: Requirements Analysis →](03-Requirements-analysis.md)
